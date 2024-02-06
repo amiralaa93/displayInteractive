@@ -1,0 +1,17 @@
+{
+  "name": "displayinteractiveautomation",
+  "version": "1.0.0",
+  "description": "Display Interactive Automation Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --timeout 60000"
+  },
+  "author": "amir.mahgoub",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.0.3",
+    "chromedriver": "^121.0.0",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.17.0"
+  }
+}
